@@ -194,7 +194,7 @@ source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt  # or: pip install numpy pandas scikit-learn matplotlib
 
 # Edit DATA_CSV in the script to point to your CSV
-python dbscan_cicids.py
+python DBSCAN_Final_Code.py
 ```
 
 That’s it — the console will print metrics and the **15 figures** will render.
