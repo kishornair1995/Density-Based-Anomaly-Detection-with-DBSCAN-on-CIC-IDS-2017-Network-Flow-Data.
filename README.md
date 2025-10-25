@@ -71,7 +71,7 @@ pip install -r requirements.txt
 ## How to Run
 
 ```bash
-python DBSCAN_Final_Code
+python DBSCAN_Final_Code.py
 ```
 
 You’ll see console messages for:
